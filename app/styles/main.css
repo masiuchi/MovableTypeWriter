@@ -13,9 +13,7 @@ Propeties Oragnization:
 }
 
 .global {
-  margin-bottom: 32px;
   margin-bottom: 2rem;
-  padding: 16px 0;
   padding: 1rem 0;
   border-bottom: 1px solid #ccc;
   background-color: #fff;
@@ -25,7 +23,6 @@ Propeties Oragnization:
 .global h1 {
   position: relative;
   top: 50%;
-  -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
   display: inline-block;
   margin-bottom: 0;
@@ -36,7 +33,6 @@ Propeties Oragnization:
 }
 
 .customSelect {
-  padding: 8px 16px;
   padding: 0.5rem 1rem;
   border: 2px solid #efefef;
   border-radius: 0.5rem;
